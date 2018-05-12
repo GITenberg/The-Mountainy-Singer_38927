@@ -1,0 +1,27 @@
+_repo: The-Mountainy-Singer_38927
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38927-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Campbell, Joseph
+    alias: MacCathmhaoil, Seosamh
+    birthdate: 1879
+    deathdate: 1944
+    gutenberg_agent_id: '41070'
+    url: http://www.gutenberg.org/2009/agents/41070
+description: ''
+gutenberg_issued: '2012-02-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38927'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Ireland -- Poetry'
+title: The Mountainy Singer
+url: http://www.gutenberg.org/ebooks/38927
